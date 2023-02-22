@@ -1,1 +1,1 @@
-- lologddad  da gdag
+- lologddad  da gdag [[kk]]
