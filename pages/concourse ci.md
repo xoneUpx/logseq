@@ -1,1 +1,1 @@
-- install on
+- install on [[k8s]]
