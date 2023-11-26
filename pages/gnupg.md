@@ -1,1 +1,1 @@
-- gpg uses v1 by default?
+- gpg uses v1 by default? On some systems only?
