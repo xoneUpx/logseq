@@ -1,2 +1,2 @@
 - operator lifecycle manager
-	- introduced by opretor
+	- introduced by #[[operator framework]]
