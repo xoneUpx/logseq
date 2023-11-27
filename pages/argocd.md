@@ -1,1 +1,1 @@
-- argocd-apps helm chart for managing app
+- argocd-apps helm chart for managing applicatons and applicationset CRDs outside of argocd
