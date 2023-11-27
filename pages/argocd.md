@@ -1,2 +1,3 @@
 - argocd-apps helm chart for managing applicatons and applicationset CRDs outside of argocd?
 - installing argocd using terraform [argocd guide](https://scribe.citizen4.eu/zencore/tips-for-deploying-argocd-declaratively-with-terraform-c92edd604b73)
+-
