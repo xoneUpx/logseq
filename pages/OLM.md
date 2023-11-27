@@ -1,1 +1,2 @@
 - operator lifecycle manager
+	- introduced by opretor
