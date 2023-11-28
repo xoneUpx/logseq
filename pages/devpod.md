@@ -1,1 +1,1 @@
-- devenv is setup with additiona startup scripts and dotfiles
+- devenv is setup with additional startup scripts and dotfiles
