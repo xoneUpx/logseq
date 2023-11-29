@@ -1,3 +1,3 @@
 - both commands create subshells:
-	- command subsititution:`` $()``
-	- process substition: ````
+	- command subsititution:`` $()`` processed as stdin
+	- process substition: ``<()``
