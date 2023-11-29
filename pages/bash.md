@@ -1,1 +1,3 @@
-- both commands create subshells:jk
+- both commands create subshells:
+	- command subsititution:`` $()``
+	- process substition: ````
