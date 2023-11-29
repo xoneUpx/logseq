@@ -2,4 +2,4 @@
 	- command subsititution:`` $()`` processed as stdin
 	- process substition: ``<()`` processed as file descriptor; suitable for commands/processes that take file as input
 - run command in subshell to apply sudo to the whole command:
-- `` bash -c ``
+- `` bash -c 'sudo echo "lol" > /some/file/that/user/has/no/access/to'``
