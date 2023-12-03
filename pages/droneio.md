@@ -1,0 +1,1 @@
+- access vault secrets in drone via k8s plugin that are it turn provided by k8s vault operator [link](https://developer.hashicorp.com/vault/tutorials/kubernetes/vault-secrets-operator)
