@@ -1,2 +1,3 @@
 - some models are free - create a script to query api for free models?
 	- endpoint: ``https://openrouter.ai/api/v1/models``
+	- ``curl https://openrouter.ai/api/v1/models | jq '.[] | map(select(.pricing.prompt == "0" and .pricing.completion == "0")) | map(.name)'``
