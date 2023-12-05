@@ -1,1 +1,2 @@
 - some models are free - create a script to query api for free models?
+	- endpoint: ``https://openrouter.ai/api/v1/models``
