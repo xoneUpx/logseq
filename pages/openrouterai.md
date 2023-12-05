@@ -1,1 +1,1 @@
-- ome models are free - creat as srp
+- some models are free - create a script to query api for free models?
