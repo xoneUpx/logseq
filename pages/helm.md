@@ -1,1 +1,1 @@
-- use postrenderer to supply env variables to charts
+- use postrenderer to supply env variables to charts [link](https://helm.sh/docs/topics/advanced/#post-rendering)?
