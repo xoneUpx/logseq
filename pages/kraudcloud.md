@@ -1,0 +1,2 @@
+- issues:
+	- how to setup ingress to k8s api
