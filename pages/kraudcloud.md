@@ -1,2 +1,3 @@
 - issues:
-	- how to setup ingress to k8s api
+	- how to setup ingress to k8s api?
+		- cannot access api - sans error
