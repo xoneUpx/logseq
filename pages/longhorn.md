@@ -1,0 +1,1 @@
+- requires open-iscsi package (in arch)
