@@ -1,2 +1,2 @@
 - wireguard-based mesh
-- create cluset
+- create hybrid cluster using mesh - netmaker, tailscale
