@@ -1,2 +1,4 @@
 - how to yank part of some file into another:
-  ``:r !sed -d :range:p  path/to/file``
+  ```python
+  :r !sed -d :range:p  path/to/filei
+  ``
