@@ -1,2 +1,2 @@
 - good-to-knows:
-	- podman conteinres don restart on system reboot
+	- podman containers dont restart on system reboot
