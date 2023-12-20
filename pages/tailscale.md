@@ -1,1 +1,2 @@
 - operator for k8s
+- neat trick to allow dns queries to swithc between resolvers:
