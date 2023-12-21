@@ -1,2 +1,2 @@
-- add except unstaged files:
+- add changes  except unstaged files:
   ```git add -u .```
