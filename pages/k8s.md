@@ -1,2 +1,2 @@
-- install via terraform/pulumi (#k3d or #k0s )
-	-
+- delete finalizers:
+  kubectl patch RESOURCE NAME -p '{"metadata":{"finalizers":[]}}' --type=merge
